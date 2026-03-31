@@ -1,0 +1,6 @@
+@EleicaoBrasilApi_HostAddress = http://localhost:5098
+
+GET {{EleicaoBrasilApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
